@@ -19,7 +19,7 @@ Create docker image using Dockerfile
 
 
 ```docker
-docker build -t mylandmarktech/springapp .
+docker build -t joveluro/springapp .
 ```
 
 ## Deploy Application Using Docker Compose 
@@ -33,4 +33,4 @@ docker-compose up -d
 docker ps -a
 ```
 ## License
-[Landmark Technologies](http://www.mylandmarktech.com)
+[Acada Learning](http://www.acadalearning.com)
